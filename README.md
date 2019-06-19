@@ -72,6 +72,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Voices --- 100% --- I don't think chatterer volume is controlled by this
 
 #### Main Menu - Input
+See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png
 * Toggle navball --- Disable or use NumLock instead of Num. --- Otherwise, typing decimal numbers into the (new-ish) stock precision maneuver editing UI will repeatedly do this at the same time.
 * Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use in the Enhanced EVA Movement mod
 * Camera 'view up' etc --- waste of arrowkeys, use the mouse, instead, use the arrow keys on wheel control
