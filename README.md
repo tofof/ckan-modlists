@@ -115,11 +115,21 @@ Upsize the ui and associated text without making icons annoyingly large:
 * **UI Scale** --- 110%
 * **Toolbar App Icon Scale** --- 93%
 
-
 #### In-Game Mods Settings (clicking on the mod button in toolbar)
 * **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.072` for better city lights at night.
 * **Distant Object Enhancement** --- Enable flares and names, Max out the flare saturation (100%), brightness (150%), and size (100%), show debris flares (15% bright), render distant vessels at max slider distance, do not dim the skybox. Alternatively, edit the .cfg file in the `GameData` directory, and set the maximum sky brightness to 225% for a more vivid night sky on Kerbin (and much much more vivid in the map view).
 * **Chatterer** --- Chatter frequency 90-180s, then in beeps tab SSTV frequency (no sstv),  sstv on science transmitted (on), sstv vol (6%) then in AAE tab bg1 (20%), bg2 (30%), only in IVA (on), breath volume (50%), airlock (100%), wind (10%), then in settings tab instachatter on singlequote, insta-sstv on semicolon.
+* **ScanSat** --- turn Toolbar Menu (off) to get rid of the annoying popup behavior, and definitely have Show Ground Tracks (on), and consider setting its child setting Active Vessel Only (off). Note that you can disable all ScanSat scanning activity from all vessels with a single errant click on the Background Scanning tab, so be careful in that one.
+* **Craft Manager** (VAB) --- kerbalx integration (no), replace load button (yes) --- far superior to the stock craft load dialog
+* **Alternative Resource Display** (flight) --- show rate change values (on), show rates for parts (on), rate style **Up/Down+Text** is much nicer
 
-* **All Mods (Janitor's Closet)** --- Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
+
+## Hiding mod buttons with Janitor's Closet
+Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
+
+#### Useful mods to leave showing on each scene
+* **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
+* **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
+* **Flight** --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper 
+
 
