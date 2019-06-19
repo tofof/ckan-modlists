@@ -39,6 +39,6 @@ Pack ZZ, "Utilities & Editors" is useful once you're thinking *could x part of t
 * **Quickgoto** --- go directly from scene to scene, instead of having to load the space center and then click into a building
 * **Slingshotter** --- simulate where planets will be on a specific date, so you don't have to blindly fumble a maneuver around until it shows an encounter with a distant planet by chance
 * **Trajectories** --- shows what your trajectory will do taking atmospheric drag into effect, highlights your landing spot clearly.  **MANUAL INSTALLATION STEP NEEDED** Make a copy of `trajectories16.bin` named `trajectories17.bin` or this mod won't actually work in version 1.7.x of KSP
-* **Resonant Orbit Calculator** --- used for putting satellites into an identical orbit, spaced evenly along it
+* **Resonant Orbit Calculator** --- used to calculate how to place satellites into evenly-spaced locations along a single identical orbit
 * **Portrait Stats** --- makes it easier to see what a kerbal's profession is while you're in flight. **Suggestion** disable it from showing all the time, and disable the use of icons instead of text for the profession. Much less ugly that way.
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
