@@ -48,11 +48,11 @@ Useful once you're thinking *could x part of the game just let me have finer con
 ## Suggested configuration
 *If toolbar button spam is annoying to you, see the Janitor's Closet tip at the very bottom of this list.*
 
-# Main menu - Settings (general tab)
+#### Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
 * Extended Burn Time Indicator --- On --- Helpful information is helpful
 
-# Main menu - Settings (graphics tab)
+#### Main menu - Settings (graphics tab)
 * Terrain Scatters --- On --- adds physicsless trees and rocks, but costs fps
 * Always show closest approach for target ---  makes it easier to actually rendezvous
 * Orbit line fade strength --- 100% --- The difference is barely perceptible otherwise
@@ -63,7 +63,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Ambient light boost --- 18%/10%/10% --- Otherwise you can't see your ships in the shadow of a planet at all, nor make out continents in the shadowed portion on the map
 * Conic Patches -- relative mode works very well, since it switches how it draws depending which body you have as your current reference (doubleclick in the map on kerbin or the mun, for example, to change between the two). Turn patch limit up to 6 once you're trying to hit other planets.
 
-# Main menu - Settings (audio tab) 
+#### Main menu - Settings (audio tab) 
 Master --- whatever you prefer, 50% etc
 Spacecraft --- 10% --- but turn this way up to 100% for your first several flights so you can appreciate the roar of a rocket taking off
 Ambience --- 5% --- there's a low bassy hum in the VAB that drives me crazy if it's any louder
@@ -71,7 +71,7 @@ UI --- 100%
 Music --- 0% --- But leave this at like 20% until you've at least gotten to experience the transition to the orbital music a dozen times or so. Eventually, though, the VAB music will drive you insane.
 Voices --- 100% --- I don't think chatterer volume is controlled by this
 
-# Main Menu - Input
+#### Main Menu - Input
 * Toggle navball --- Disable or use NumLock instead of Num. --- Otherwise, typing decimal numbers into the (new-ish) stock precision maneuver editing UI will repeatedly do this at the same time.
 * Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use in the Enhanced EVA Movement mod
 * Camera 'view up' etc --- waste of arrowkeys, use the mouse, instead, use the arrow keys on wheel control
@@ -85,22 +85,22 @@ If you need to free up keys for use by more important things
 * Full throttle (z) is likely to totally screw you when you hit it by accident instead of cutting throttle during a precision burn. Unbind it.
 * Toggle mouselook is also useless in practice.
 
-# Difficulty
+#### Difficulty
 For a newcomer: 
 Basic difficulty settings - allow reverts, allow quickloads, missing crews respawn but on like a 6hr (1 kerbal day) timer or longer, no auto-hire, no indestructible facilities, no stock vessels, no comm network, decline penalty 0 (contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of), heating/reward/penalty sliders all 100% otherwise
 Advanced difficulty settings - Everything off except Kerbal G-force limits (occasional blackout from very rough parachutes is interesting and unlikely to actually get them killed) and Part Upgrades. Tolerance 1.0, Building damage 0.05.
 
-# Mod Settings inside Difficulty Menu
+#### Mod Settings inside Difficulty Menu
 * **DMagic -> Portrait Stats** --- Always show (off), use icon (off), remaining settings (on) --- less ugly this way
 * **Filter extensions** --- Hide unpurchased (off), Default to advanced (off), 
 * **Hide Empty Tech Tree Nodes** --- Remove empty horizontal and vertical space both (on)
 * **Janitor's Closet** --- everything (on) except debug mode, and definitely turn the slider up to like 1.5 seconds or more. The menu disappears too quickly otherwise
 * **Stage Recovery** --- I would set the global modifier to 80% to make this a little less cheaty. Moving the cutoff velocities downward also increases the difficulty of getting a successful recovery of a part. Hide the space center button with the final option to (on).
 
-# In-Game Settings Menu
+#### In-Game Settings Menu
 * Setting --- UI Scale 110% / Toolbar App Icon 93% --- upsizes ui and associated text without making icons annoyingly large
 
-# In-Game Mods Settings (clicking on the mod button in toolbar)
+#### In-Game Mods Settings (clicking on the mod button in toolbar)
 * **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.072` for better city lights at night.
 * **Distant Object Enhancement** --- Enable flares and names, Max out the flare saturation (100%), brightness (150%), and size (100%), show debris flares (15% bright), render distant vessels at max slider distance, do not dim the skybox. Alternatively, edit the .cfg file in the `GameData` directory, and set the maximum sky brightness to 225% for a more vivid night sky on Kerbin (and much much more vivid in the map view).
 * **Chatterer** --- Chatter frequency 90-180s, then in beeps tab SSTV frequency (no sstv),  sstv on science transmitted (on), sstv vol (6%) then in AAE tab bg1 (20%), bg2 (30%), only in IVA (on), breath volume (50%), airlock (100%), wind (10%), then in settings tab instachatter on singlequote, insta-sstv on semicolon.
