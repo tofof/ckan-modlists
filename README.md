@@ -80,7 +80,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Translation --- I prefer to put these over on the numpad, but if you're already comfortable with HJKL as directions, there's no real need.
 * Translation key mode behavior --- I don't like the WASD controls doing translation in docking mode. WASDQE is set to control attitude of my ship at all times (3 green lights), while Num824693 does translation at all times.
 
-# If you need to free up keys for use by more important things
+#### If you need to free up keys for use by more important things
 * SAS hold (f) is almost worthless.
 * Full throttle (z) is likely to totally screw you when you hit it by accident instead of cutting throttle during a precision burn. Unbind it.
 * Toggle mouselook is also useless in practice.
