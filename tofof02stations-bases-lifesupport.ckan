@@ -1,0 +1,71 @@
+{
+	"kind": "metapackage",
+	"abstract": "New parts and extensions to support station and base building",
+	"name": "02stations-bases-lifesupport",
+	"license": "unknown",
+	"version": "2019.06.19.03.13.43",
+	"identifier": "02stations-bases-lifesupport",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "FlexibleDocking"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "B9PartSwitch"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "USI-Core"
+		},
+		{
+			"name": "StationPartsExpansionRedux"
+		},
+		{
+			"name": "KerbalPlanetaryBaseSystems"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "USITools"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "USI-LS"
+		},
+				{
+			"name": "RasterPropMonitor-Core"
+		},
+		{
+			"name": "ASETProps"
+		},
+		{
+			"name": "ASETAgency"
+		},
+		{
+			"name": "Mk1LanderCanIVAReplbyASET"
+		},
+		{
+			"name": "ReStockPlus"
+		},
+		{
+			"name": "Mk2Expansion"
+		},
+		{
+			"name": "Mk3Expansion"
+		},
+	]
+}

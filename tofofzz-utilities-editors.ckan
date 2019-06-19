@@ -1,0 +1,80 @@
+{
+	"kind": "metapackage",
+	"abstract": "Utilities, calculators, detailed displays, and editor tools",
+	"name": "zz-utilities-editors",
+	"license": "unknown",
+	"version": "2019.06.19.03.36.41",
+	"identifier": "zz-utilities-editors",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "ResonantOrbitCalculator"
+		},
+		{
+			"name": "CommunityTraitIcons"
+		},
+		{
+			"name": "REPOSoftTech-Agencies"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "Trajectories"
+		},
+		{
+			"name": "SlingShotterReslung"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "PortraitStats"
+		},
+		{
+			"name": "AmpYearPowerManager"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "JanitorsCloset"
+		},
+		{
+			"name": "WasdEditorCameraContinued"
+		},
+		{
+			"name": "TooManyOrbits"
+		},
+		{
+			"name": "QuickStart"
+		},
+		{
+			"name": "QuickGoTo"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "FilterExtensions"
+		},
+		{
+			"name": "EditorExtensionsRedux"
+		},
+		{
+			"name": "AlternateResourcePanel"
+		},
+		{
+			"name": "unBlur"
+		},
+		{
+			"name": "TweakScale"
+		}
+	]
+}

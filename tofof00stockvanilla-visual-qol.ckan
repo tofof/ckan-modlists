@@ -1,0 +1,140 @@
+{
+	"kind": "metapackage",
+	"abstract": "A base set of mods that provide only visual enhancement and essential quality of life features",
+	"name": "00stockvanilla-visual-qol",
+	"license": "unknown",
+	"version": "2019.06.19.02.47.56",
+	"identifier": "00stockvanilla-visual-qol",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "StockVisualEnhancements"
+		},
+		{
+			"name": "SVE-Terrain"
+		},
+		{
+			"name": "SVE-HighResolution"
+		},
+		{
+			"name": "unBlur"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "RCSBuildAidCont"
+		},
+		{
+			"name": "JanitorsCloset"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "EngineLightRelit"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "TriggerAu-Flags"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "ChattererExtended"
+		},
+		{
+			"name": "DatedQuickSaves"
+		},
+		{
+			"name": "BetterLoadSaveGame"
+		},
+		{
+			"name": "MagiCore"
+		},
+		{
+			"name": "ScienceSituationInfo"
+		},
+		{
+			"name": "KeepItStraight"
+		},
+		{
+			"name": "CraftManager"
+		},
+		{
+			"name": "KXAPI"
+		},
+		{
+			"name": "CommNetVisualisation"
+		},
+		{
+			"name": "LaunchNumbering"
+		},
+		{
+			"name": "CommNetAntennasInfo"
+		}
+	]
+}

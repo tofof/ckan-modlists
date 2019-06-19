@@ -1,0 +1,89 @@
+{
+	"kind": "metapackage",
+	"abstract": "Community replacements and enhancements of stock mechanics without meaningfully altering balance or difficulty",
+	"name": "01community-contracts-techtree",
+	"license": "unknown",
+	"version": "2019.06.19.03.02.23",
+	"identifier": "01community-contracts-techtree",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "EVAEnhancementsContinued"
+		},
+		{
+			"name": "FlagRotateCont"
+		},
+		{
+			"name": "CommunityPartsTitles"
+		},
+		{
+			"name": "EVAHandrailsPackContinued"
+		},
+		{
+			"name": "ScienceLabInfo"
+		},
+		{
+			"name": "surfacelights"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "unBlur"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "StageRecovery"
+		},
+		{
+			"name": "ProgressParser"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "DMagicOrbitalScience"
+		},
+		{
+			"name": "CrowdSourcedScience"
+		},
+		{
+			"name": "GAP"
+		},
+		{
+			"name": "ContractConfigurator-Tourism"
+		},
+		{
+			"name": "ContractConfigurator-KerbinSpaceStation"
+		},
+		{
+			"name": "ContractConfigurator-KerbalAcademy"
+		},
+		{
+			"name": "ContractConfigurator-FieldResearch"
+		},
+		{
+			"name": "ContractConfigurator-AnomalySurveyor"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "SCANsat"
+		},
+		{
+			"name": "BetterBurnTime"
+		}
+	]
+}
