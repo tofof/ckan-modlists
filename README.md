@@ -18,7 +18,7 @@ Install pieces from ZZ when you have progressed in skill to the point they might
 | # | Name | Description |
 |---|---------|-------------|
 | 00 | Visual & QOL (essentially Stock++)  | Basic mods - only visual enhancement & essential quality of life|
-| 01 | Community, Contracts, Tech Tree     | Community replacements/enhancements of stock mechanics --- Nothing fundamentally altering balance, difficulty, or playstyle |
+| 01 | Community, Contracts, Tech Tree     | Community replacements/enhancements of stock mechanics<br>Nothing fundamentally altering balance, difficulty, or playstyle |
 | 02 | Stations, Bases, Snacks             | New parts for station and base building, and a casual lifesupport system |
 | XX | Decorative                          | Decals, animated screens, and fancy displays|
 | ZZ | Utilities & Editors                 | Poweruser calculators, utilities, editors, etc|
