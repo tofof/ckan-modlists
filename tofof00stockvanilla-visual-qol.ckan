@@ -1,8 +1,10 @@
 {
 	"kind": "metapackage",
+	"abstract": "A base set of mods that provide only visual enhancement and essential quality of life features",
+	"name": "00stockvanilla-visual-qol",
 	"license": "unknown",
-	"version": "2019.06.19.02.47.56",
 	"version": "2019.06.19.06.32.24",
+	"identifier": "00stockvanilla-visual-qol",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
