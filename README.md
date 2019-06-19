@@ -46,6 +46,8 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
 ## Suggested configuration
+*If toolbar button spam is annoying to you, see the Janitor's Closet tip at the very bottom of this list.*
+
 # Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
 * Extended Burn Time Indicator --- On --- Helpful information is helpful
@@ -81,7 +83,7 @@ Voices --- 100% --- I don't think chatterer volume is controlled by this
 If you need to free up keys for use by more important things
 * SAS hold (f) is almost worthless.
 * Full throttle (z) is likely to totally screw you when you hit it by accident instead of cutting throttle during a precision burn. Unbind it.
-* Toggle mouselook is also worthless.
+* Toggle mouselook is also useless in practice.
 
 # Difficulty
 For a newcomer: 
@@ -95,13 +97,13 @@ Advanced difficulty settings - Everything off except Kerbal G-force limits (occa
 * **Janitor's Closet** --- everything (on) except debug mode, and definitely turn the slider up to like 1.5 seconds or more. The menu disappears too quickly otherwise
 * **Stage Recovery** --- I would set the global modifier to 80% to make this a little less cheaty. Moving the cutoff velocities downward also increases the difficulty of getting a successful recovery of a part. Hide the space center button with the final option to (on).
 
-
-# In Game Settings Menu
+# In-Game Settings Menu
 * Setting --- UI Scale 110% / Toolbar App Icon 93% --- upsizes ui and associated text without making icons annoyingly large
 
-# Mods Settings (clicking on the mod button in toolbar)
-* **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to 0.072 for better city lights at night.
+# In-Game Mods Settings (clicking on the mod button in toolbar)
+* **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.072` for better city lights at night.
 * **Distant Object Enhancement** --- Enable flares and names, Max out the flare saturation (100%), brightness (150%), and size (100%), show debris flares (15% bright), render distant vessels at max slider distance, do not dim the skybox. Alternatively, edit the .cfg file in the `GameData` directory, and set the maximum sky brightness to 225% for a more vivid night sky on Kerbin (and much much more vivid in the map view).
+* **Chatterer** --- Chatter frequency 90-180s, then in beeps tab SSTV frequency (no sstv),  sstv on science transmitted (on), sstv vol (6%) then in AAE tab bg1 (20%), bg2 (30%), only in IVA (on), breath volume (50%), airlock (100%), wind (10%), then in settings tab instachatter on singlequote, insta-sstv on semicolon.
 
 * **All Mods (Janitor's Closet)** --- Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
