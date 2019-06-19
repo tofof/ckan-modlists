@@ -64,12 +64,12 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Conic Patches -- relative mode works very well, since it switches how it draws depending which body you have as your current reference (doubleclick in the map on kerbin or the mun, for example, to change between the two). Turn patch limit up to 6 once you're trying to hit other planets.
 
 #### Main menu - Settings (audio tab) 
-Master --- whatever you prefer, 50% etc
-Spacecraft --- 10% --- but turn this way up to 100% for your first several flights so you can appreciate the roar of a rocket taking off
-Ambience --- 5% --- there's a low bassy hum in the VAB that drives me crazy if it's any louder
-UI --- 100%
-Music --- 0% --- But leave this at like 20% until you've at least gotten to experience the transition to the orbital music a dozen times or so. Eventually, though, the VAB music will drive you insane.
-Voices --- 100% --- I don't think chatterer volume is controlled by this
+* Master --- whatever you prefer, 50% etc
+* Spacecraft --- 10% --- but turn this way up to 100% for your first several flights so you can appreciate the roar of a rocket taking off
+* Ambience --- 5% --- there's a low bassy hum in the VAB that drives me crazy if it's any louder
+* UI --- 100%
+* Music --- 0% --- But leave this at like 20% until you've at least gotten to experience the transition to the orbital music a dozen times or so. Eventually, though, the VAB music will drive you insane.
+* Voices --- 100% --- I don't think chatterer volume is controlled by this
 
 #### Main Menu - Input
 * Toggle navball --- Disable or use NumLock instead of Num. --- Otherwise, typing decimal numbers into the (new-ish) stock precision maneuver editing UI will repeatedly do this at the same time.
