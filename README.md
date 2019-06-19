@@ -3,7 +3,7 @@ CKAN modlist files for Kerbal Space Program
 
 ## Installation
 1. Install CKAN
-2. settings -> compatible ksp versions -> checkmark 1.7, 1.6, 1.5, 1.4,
+2. settings -> compatible ksp versions -> checkmark 1.7, 1.6, 1.5, 1.4, 1.3
 3. file -> install from .ckan -> pick a file
 4. Hit continue (do not use toggle checkbox to adjust anything)
 
