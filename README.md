@@ -80,15 +80,27 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Translation --- I prefer to put these over on the numpad, but if you're already comfortable with HJKL as directions, there's no real need.
 * Translation key mode behavior --- I don't like the WASD controls doing translation in docking mode. WASDQE is set to control attitude of my ship at all times (3 green lights), while Num824693 does translation at all times.
 
-If you need to free up keys for use by more important things
+# If you need to free up keys for use by more important things
 * SAS hold (f) is almost worthless.
 * Full throttle (z) is likely to totally screw you when you hit it by accident instead of cutting throttle during a precision burn. Unbind it.
 * Toggle mouselook is also useless in practice.
 
-#### Difficulty
-For a newcomer: 
-Basic difficulty settings - allow reverts, allow quickloads, missing crews respawn but on like a 6hr (1 kerbal day) timer or longer, no auto-hire, no indestructible facilities, no stock vessels, no comm network, decline penalty 0 (contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of), heating/reward/penalty sliders all 100% otherwise
-Advanced difficulty settings - Everything off except Kerbal G-force limits (occasional blackout from very rough parachutes is interesting and unlikely to actually get them killed) and Part Upgrades. Tolerance 1.0, Building damage 0.05.
+#### Difficulty (for a newcomer)
+* Basic difficulty settings 
+  * allow reverts 
+  * allow quickloads
+  * missing crews respawn but on like a 6hr (1 kerbal day) timer or longer
+  * no auto-hire 
+  * no indestructible facilities
+  * no stock vessels
+  * no comm network
+  * decline penalty 0 (contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of), 
+  * heating/reward/penalty sliders all 100% otherwise
+* Advanced difficulty settings - *Everything off, except...*
+  * Kerbal G-force limits on (occasional blackout from very rough parachutes is interesting and unlikely to actually get them killed)
+  * G-force Tolerance 1.0
+  * Part Upgrades on
+  * Building damage 0.05
 
 #### Mod Settings inside Difficulty Menu
 * **DMagic -> Portrait Stats** --- Always show (off), use icon (off), remaining settings (on) --- less ugly this way
