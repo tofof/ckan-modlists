@@ -3,7 +3,7 @@
 	"abstract": "New parts and extensions to support station and base building",
 	"name": "02stations-bases-lifesupport",
 	"license": "unknown",
-	"version": "2019.06.19.03.13.43",
+	"version": "2019.06.19.13.46.44",
 	"identifier": "02stations-bases-lifesupport",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -21,6 +21,9 @@
 		},
 		{
 			"name": "CommunityTechTree"
+		},
+		{
+			"name": "HideEmptyTechNodes"
 		},
 		{
 			"name": "USI-Core"
@@ -67,5 +70,8 @@
 		{
 			"name": "Mk3Expansion"
 		},
+		{
+			"name": "ReStock"
+		}
 	]
 }

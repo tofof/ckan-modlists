@@ -3,7 +3,7 @@
 	"abstract": "Community replacements and enhancements of stock mechanics without meaningfully altering balance or difficulty",
 	"name": "01community-contracts-techtree",
 	"license": "unknown",
-	"version": "2019.06.19.03.02.23",
+	"version": "2019.06.19.13.44.44",
 	"identifier": "01community-contracts-techtree",
 	"spec_version": "v1.6",
 	"recommends": [
@@ -50,6 +50,9 @@
 			"name": "CommunityTechTree"
 		},
 		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
 			"name": "DMagicOrbitalScience"
 		},
 		{
@@ -63,9 +66,6 @@
 		},
 		{
 			"name": "ContractConfigurator-KerbinSpaceStation"
-		},
-		{
-			"name": "ContractConfigurator-KerbalAcademy"
 		},
 		{
 			"name": "ContractConfigurator-FieldResearch"
