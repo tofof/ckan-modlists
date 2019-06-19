@@ -25,9 +25,11 @@ Install pieces from ZZ when you have progressed in skill to the point they might
 
 ## Details
 
-Pack 2, "Stations, Bases, Snacks" contains a life support system. It's completely configurable. By default, your veteran (orange-suit) Kerbals are immune to all negative effects. After 14 (21? 28?) days without food or without power, your Kerbals will enter tourist-mode, making them unable to actually pilot the craft they're in or use any of their profession's abilities. *They will not die*, unless you change the configuration to use that option. Other alternatives include mutiny (destroy a part of the vessel, then become tourist), or to go M.I.A. (to respawn some period later).
+#### Pack 2, "Stations, Bases, Snacks" 
+Other than the station and base parts, the major thing this pack adds is a life support system. It's completely configurable. By default, your veteran (orange-suit) Kerbals are immune to all negative effects. After 14 (21? 28?) days without food or without power, your Kerbals will enter tourist-mode, making them unable to actually pilot the craft they're in or use any of their profession's abilities. *They will not die*, unless you change the configuration to use that option. Other alternatives include mutiny (destroy a part of the vessel, then become tourist), or to go M.I.A. (to respawn some period later).
 
-Pack ZZ, "Utilities & Editors" is useful once you're thinking *could x part of the game just let me have finer control* or perhaps *I just want to see the actual numerical value of y" or "how am I supposed to calculate z while I'm desigining my ship?*
+#### Pack ZZ, "Utilities & Editors" 
+Useful once you're thinking *could x part of the game just let me have finer control* or perhaps *I just want to see the actual numerical value of y" or "how am I supposed to calculate z while I'm desigining my ship?*
 * **Alternate Resource Panel** -- better than the stock resource display, can show countdown time to resource exhaustion
 * **Kerbal Engineer Redux** --- displays extra part info on hover in the editor, calculates about a hojillion different properties of planets, ships, orbits, etc and can put any of them onscreen in flight, or into a little window for you.  If used, I suggest using the 'career' and 'part/engineer' requirements, which I think is the default - basically you dont get it in-flight without including the part or having an engineer abord
 * **Real Chute** --- configure sizes of chutes on a per-craft per-part basis so you have just the right amount of parachute to slow your stage to whatever you want, and to control altitude parachutes open at and delay before they fully inflate, etc
