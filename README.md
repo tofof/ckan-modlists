@@ -127,7 +127,7 @@ Upsize the ui and associated text without making icons annoyingly large:
 ## Hiding mod buttons with Janitor's Closet
 Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
-#### Useful mods to leave showing on each scene
+#### Useful mods to leave showing in specific scenes:
 * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
 * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
 * **Flight** --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper 
