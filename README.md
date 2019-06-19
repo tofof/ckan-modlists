@@ -2,10 +2,13 @@
 CKAN modlist files for Kerbal Space Program
 
 ## Installation
-1. Install CKAN
-2. settings -> compatible ksp versions -> checkmark 1.7, 1.6, 1.5, 1.4, 1.3
-3. file -> install from .ckan -> pick a file
-4. Hit continue (do not use toggle checkbox to adjust anything)
+1. Install and run CKAN
+2. Refresh
+3. CKAN Settings menu -> compatible ksp versions -> checkmark 1.7, 1.6, 1.5, 1.4, 1.3
+4. File menu -> install from .ckan -> pick a file
+5. Hit continue (do not use toggle checkbox to adjust anything)
+6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
+7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports. See discussion below.
 
 ## Suggested pack usage
 Install 00 and 01 at a minimum.
@@ -44,6 +47,9 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **Resonant Orbit Calculator** --- used to calculate how to place satellites into evenly-spaced locations along a single identical orbit
 * **Portrait Stats** --- makes it easier to see what a kerbal's profession is while you're in flight.
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
+
+## Kopernicus
+Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). Otherwise, however, the warnings not to load your save can be safely ignored.
 
 ## Suggested configuration
 **IMPORTANT** *If toolbar button spam is annoying, see the Janitor's Closet tip at the very end.* **IMPORTANT**
