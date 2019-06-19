@@ -46,7 +46,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
 ## Suggested configuration
-*If toolbar button spam is annoying to you, see the Janitor's Closet tip at the very bottom of this list.*
+**IMPORTANT** *If toolbar button spam is annoying to you, see the Janitor's Closet tip at the very bottom of this list.* **IMPORTANT**
 
 #### Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
