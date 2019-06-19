@@ -25,7 +25,7 @@ Install pieces from ZZ when you have progressed in skill to the point they might
 
 ## Details
 
-Pack 2, "Stations, Bases, Snacks" contains a life support system. It's completely configurable. By default, your veteran (orange-suit) Kerbals are immune to all negative effects. After 14 (21? 28?) days without food or without power, your Kerbals will enter tourist-mode, making them unable to actually pilot the craft they're in or use any of their profession's abilities.
+Pack 2, "Stations, Bases, Snacks" contains a life support system. It's completely configurable. By default, your veteran (orange-suit) Kerbals are immune to all negative effects. After 14 (21? 28?) days without food or without power, your Kerbals will enter tourist-mode, making them unable to actually pilot the craft they're in or use any of their profession's abilities. *They will not die*, unless you change the configuration to use that option. Other alternatives include mutiny (destroy a part of the vessel, then become tourist), or to go M.I.A. (to respawn some period later).
 
 Pack ZZ, "Utilities & Editors" is useful once you're thinking *could x part of the game just let me have finer control* or perhaps *I just want to see the actual numerical value of y" or "how am I supposed to calculate z while I'm desigining my ship?*
 * **Alternate Resource Panel** -- better than the stock resource display, can show countdown time to resource exhaustion
