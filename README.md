@@ -131,5 +131,5 @@ Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items bac
 * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
 * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
 * **Flight** --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper 
-
+* **Space Center Overview** --- Alarm Clock, Goto
 
