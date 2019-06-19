@@ -110,7 +110,9 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **Stage Recovery** --- I would set the global modifier to 80% to make this a little less cheaty. Moving the cutoff velocities downward also increases the difficulty of getting a successful recovery of a part. Hide the space center button with the final option to (on).
 
 #### In-Game Settings Menu
-* Setting --- UI Scale 110% / Toolbar App Icon 93% --- upsizes ui and associated text without making icons annoyingly large
+* **UI Scale** --- 110%
+* **Toolbar App Icon Scale** --- 93%
+Upsize the ui and associated text without making icons annoyingly large
 
 #### In-Game Mods Settings (clicking on the mod button in toolbar)
 * **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.072` for better city lights at night.
