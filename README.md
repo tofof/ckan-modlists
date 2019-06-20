@@ -92,15 +92,15 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Basic difficulty settings 
   * allow reverts 
   * allow quickloads
-  * missing crews respawn   *consider a longer timer, 6hr (1 kerbal day) or more*
+  * missing crews respawn --- *Consider a longer timer, 6hr [1 kerbal day] or more.*
   * no auto-hire 
   * no indestructible facilities
   * no stock vessels
   * no comm network
-  * decline penalty 0   *Some contracts are just stupid. You shouldn't take a penalty for deleting them.*
+  * decline penalty 0 --- *Some contracts are just stupid. You shouldn't take a penalty for deleting them.*
   * heating/reward/penalty sliders all 100% otherwise
- * Advanced difficulty settings - *Everything off, except...*
-    * Kerbal G-force limits on *(short blackout from very rough parachutes is interesting and unlikely to make casualties)*
+ * Advanced difficulty settings - everything off except..
+    * Kerbal G-force limits on --- *Short blackouts from very rough parachutes is interesting, unlikely to cause casualties.*
     * G-force Tolerance 1.0
     * Part Upgrades on
     * Building damage 0.05
