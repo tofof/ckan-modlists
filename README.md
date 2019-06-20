@@ -82,11 +82,12 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Wheels steer/drive --- *Arrowkeys, so you can wheel (🠄🠆🠅🠇), gyro (WASD), & thruster (HJKL) simultaneously.*
 * Translation --- *I prefer the numpad, since I don't do HJKL directions.*
 * Translation key mode behavior --- *Keys shouldn't change behavior. Keep usage identical in all three modes.*
+* **Full throttle (z)** --- *You **will** accidentally hit this instead of cutting throttle during a precision burn, ruining it. **Unbind it!***
+
 
 #### If you need to free up keys for use by more important things
-* SAS hold (f) --- *useless*
-* Full throttle (z) --- *You will accidentally hit this instead of cutting throttle during a precision burn, ruining it. Unbind it.*
-* Toggle mouselook --- *useless*
+* SAS hold (f) --- *not very useful*
+* Toggle mouselook (idk which key) --- *useless*
 
 #### Difficulty (for a newcomer)
 * Basic difficulty settings 
