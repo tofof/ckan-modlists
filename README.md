@@ -49,7 +49,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
 ## Suggested configuration
-*If toolbar button spam is annoying, see the Janitor's Closet tip<sup>[[2]](#hiding-mod-buttons-with-janitors-closet)</sup> at the very end.*
+*If toolbar button spam is annoying, see the Janitor's Closet tip.*<sup>[[2]](#2-hiding-mod-buttons-with-janitors-closet)</sup>
 
 #### Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
@@ -128,7 +128,7 @@ Upsize the ui and associated text without making icons annoyingly large:
 
 ## Notes
 
-#### [[1]⤣](#suggested-pack-usage) Kopernicus
+#### [[1]⤣](#installation) Kopernicus
 Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). 
 
 Otherwise, however, the warnings not to load your save can be safely ignored.
@@ -136,11 +136,11 @@ Otherwise, however, the warnings not to load your save can be safely ignored.
 #### [[2]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
 Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
-Useful mods to leave showing in specific scenes:
-* **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
-* **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
-* **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
-* **Space Center Overview** --- Alarm Clock, Goto
+* Useful mods to leave showing in specific scenes:
+ * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
+ * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
+ * **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
+ * **Space Center Overview** --- Alarm Clock, Goto
 
 https://github.com/tofof/ckan-modlists#suggested-configuration
 
