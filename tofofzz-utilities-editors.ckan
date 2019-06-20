@@ -8,6 +8,9 @@
 	"spec_version": "v1.6",
 	"recommends": [
 		{
+			"name": "TacFuelBalancer"
+		},
+		{
 			"name": "ResonantOrbitCalculator"
 		},
 		{
