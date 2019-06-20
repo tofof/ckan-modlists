@@ -76,7 +76,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 
 #### Main Menu - Input
 See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png
-* Toggle navball --- Disable or use NumLock instead of Num. --- *You'll want to type decimals into the new maneuver window!*
+* Toggle navball --- Disable --- *You'll want to type decimals into the new maneuver UI!*
 * Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use by Enhanced EVA mod.
 * Camera 'view up' etc --- waste of arrowkeys. Use the mouse instead.
 * Wheels steer/drive --- *Arrowkeys, so you can wheel (🠄🠆🠅🠇), gyro (WASD), & thruster (HJKL) simultaneously.*
