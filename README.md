@@ -2,7 +2,7 @@
 CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP playthrough and mod collection. Unfortunately, his CKAN file reflects several errors (requiring manual ScanSat install, using the abandoned fork of Engine Lighting, missing Trajectories fix, etc). In addition to correcting those errors, I partitioned the list to reflect the differing scopes of the included mods, and embellished with further visual/cosmetic, quality-of-life, and poweruser utilities, while preserving the stockalike disposition.
 
 ## Installation
-1. Install and run CKAN
+1. Install and run [CKAN](https://github.com/KSP-CKAN/CKAN/releases)
 2. Refresh
 3. CKAN Settings menu -> compatible ksp versions -> checkmark 1.7, 1.6, 1.5, 1.4, 1.3
 4. File menu -> install from .ckan -> pick a file
