@@ -79,7 +79,7 @@ See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/Keyboar
 * Toggle navball --- Disable or use NumLock instead of Num. --- *You'll want to type decimals into the new maneuver window!*
 * Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use by Enhanced EVA mod.
 * Camera 'view up' etc --- waste of arrowkeys. Use the mouse instead.
-* Wheels steer/drive --- *Use arrowkeys, so you can use wheels (🠄🠆🠅🠇), gyros (WASD), & thrusters (HJKL) simultaneously.
+* Wheels steer/drive --- *Arrowkeys, so you can wheel (🠄🠆🠅🠇), gyro (WASD), & thruster (HJKL) simultaneously.*
 * Translation --- I prefer the numpad, since I don't do HJKL directions.
 * Translation key mode behavior --- *Keys shouldn't change behavior. Keep usage identical in all three modes.*
 
