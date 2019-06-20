@@ -99,7 +99,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
   * no comm network
   * decline penalty 0   *Some contracts are just stupid. You shouldn't take a penalty for deleting them.*
   * heating/reward/penalty sliders all 100% otherwise
-  * Advanced difficulty settings - *Everything off, except...*
+ * Advanced difficulty settings - *Everything off, except...*
   * Kerbal G-force limits on *(short blackout from very rough parachutes is interesting and unlikely to make casualties)*
   * G-force Tolerance 1.0
   * Part Upgrades on
