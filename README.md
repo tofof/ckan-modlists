@@ -48,13 +48,8 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **Portrait Stats** --- makes it easier to see what a kerbal's profession is while you're in flight.
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
-## Kopernicus
-Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). 
-
-Otherwise, however, the warnings not to load your save can be safely ignored.
-
 ## Suggested configuration
-**IMPORTANT** *If toolbar button spam is annoying, see the Janitor's Closet tip at the very end.* **IMPORTANT**
+*If toolbar button spam is annoying, see the Janitor's Closet tip<sup>[[2]](#hiding-mod-buttons-with-janitors-closet)</sup> at the very end.*
 
 #### Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
@@ -131,13 +126,23 @@ Upsize the ui and associated text without making icons annoyingly large:
 * **Craft Manager** (VAB) --- kerbalx integration (no), replace load button (yes) --- far superior to the stock craft load dialog
 * **Alternative Resource Display** (flight) --- show rate change values (on), show rates for parts (on), rate style **Up/Down+Text** is much nicer
 
+## Notes
 
-## Hiding mod buttons with Janitor's Closet
+#### [[1]⤣](#suggested-pack-usage) Kopernic
+Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). 
+
+Otherwise, however, the warnings not to load your save can be safely ignored.
+
+#### [[2]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
 Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
-#### Useful mods to leave showing in specific scenes:
+Useful mods to leave showing in specific scenes:
 * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
 * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
-* **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper  
+* **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
 * **Space Center Overview** --- Alarm Clock, Goto
+
+https://github.com/tofof/ckan-modlists#suggested-configuration
+
+
 
