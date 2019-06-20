@@ -56,14 +56,14 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Extended Burn Time Indicator --- On --- *Helpful information is helpful.*
 
 #### Main menu - Settings (graphics tab)
-* Terrain Scatters --- On --- adds physicsless trees and rocks, but costs fps
+* Terrain Scatters --- On --- *adds physicsless trees & rocks, but costs fps*
 * Always show closest approach for target --- *easier to rendezvous*
 * Orbit line fade strength --- 100% --- *barely perceptible otherwise*
 * CommNet line brightness --- 50%
 * Part Highlighter Brightness Factor --- 50%
 * Part Highlighter in flight --- On
 * Pixel light count --- 16 or higher
-* Ambient light boost --- 18%/10%/10% --- *So you can see your ship and continents in shadow*
+* Ambient light boost --- 18%/10%/10% --- *seeing just a black screen is boring.*
 * Conic Patches -- Relative --- *doubleclick planet/moon to change what line draws WRT*
 
 #### Main menu - Settings (audio tab) 
@@ -92,14 +92,14 @@ See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/Keyboar
 * Basic difficulty settings 
   * allow reverts 
   * allow quickloads
-  * missing crews respawn but on like a 6hr (1 kerbal day) timer or longer
+  * missing crews respawn   *consider a longer timer, 6hr (1 kerbal day) or more*
   * no auto-hire 
   * no indestructible facilities
   * no stock vessels
   * no comm network
-  * decline penalty 0 *(contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of)*
+  * decline penalty 0   *Some contracts are just stupid. You shouldn't take a penalty for deleting them.*
   * heating/reward/penalty sliders all 100% otherwise
-* Advanced difficulty settings - *Everything off, except...*
+  * Advanced difficulty settings - *Everything off, except...*
   * Kerbal G-force limits on *(short blackout from very rough parachutes is interesting and unlikely to make casualties)*
   * G-force Tolerance 1.0
   * Part Upgrades on
