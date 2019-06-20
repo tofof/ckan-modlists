@@ -98,10 +98,10 @@ See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/Keyboar
   * no indestructible facilities
   * no stock vessels
   * no comm network
-  * decline penalty 0 (contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of), 
+  * decline penalty 0 *(contracts are wacky sometimes and you shouldn't take a hit to say no to something stupid or that you're tired of)*
   * heating/reward/penalty sliders all 100% otherwise
 * Advanced difficulty settings - *Everything off, except...*
-  * Kerbal G-force limits on (occasional blackout from very rough parachutes is interesting and unlikely to actually get them killed)
+  * Kerbal G-force limits on *(short blackout from very rough parachutes is interesting and unlikely to make casualties)*
   * G-force Tolerance 1.0
   * Part Upgrades on
   * Building damage 0.05
