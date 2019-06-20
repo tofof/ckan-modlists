@@ -134,7 +134,8 @@ Kopernicus is only used in these modlists to add rings to Jool. If you are near 
 Otherwise, however, the warnings not to load your save can be safely ignored.
 
 #### [[2]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
-Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.<br>
+Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
+
 **Useful mods to leave showing in specific scenes:**
   * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
   * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
