@@ -136,8 +136,8 @@ Otherwise, however, the warnings not to load your save can be safely ignored.
 #### [[2]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
 Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
-* Useful mods to leave showing in specific scenes:
- * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
- * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
- * **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
- * **Space Center Overview** --- Alarm Clock, Goto
+* **Useful mods to leave showing in specific scenes:**
+  * **VAB** --- Tags, Goto, KER, RCS Build Aid, Antenna Helper, WASD Camera, AmpYear, EditorExtensions, Stage Recovery
+  * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
+  * **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
+  * **Space Center Overview** --- Alarm Clock, Goto
