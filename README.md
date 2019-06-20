@@ -57,36 +57,36 @@ Useful once you're thinking *could x part of the game just let me have finer con
 
 #### Main menu - Settings (graphics tab)
 * Terrain Scatters --- On --- adds physicsless trees and rocks, but costs fps
-* Always show closest approach for target ---  makes it easier to actually rendezvous
-* Orbit line fade strength --- 100% --- The difference is barely perceptible otherwise
-* CommNet line brightness --- 50% --- Even this is probably too bright, unless you make a big deal of CommNet by radically altering the transmitter strengths in the game difficulty (as I have)
-* Part Highlighter Brightness Factor --- 50% --- less detail-obliterating
-* Part Highlighter in flight --- On --- helpful
-* Pixel light count --- 16 or higher, particularly if you deliberately add surface lighting to your ships
-* Ambient light boost --- 18%/10%/10% --- Otherwise you can't see your ships in the shadow of a planet at all, nor make out continents in the shadowed portion on the map
-* Conic Patches -- relative mode works very well, since it switches how it draws depending which body you have as your current reference (doubleclick in the map on kerbin or the mun, for example, to change between the two). Turn patch limit up to 6 once you're trying to hit other planets.
+* Always show closest approach for target --- *easier to rendezvous*
+* Orbit line fade strength --- 100% --- *barely perceptible otherwise*
+* CommNet line brightness --- 50%
+* Part Highlighter Brightness Factor --- 50%
+* Part Highlighter in flight --- On
+* Pixel light count --- 16 or higher
+* Ambient light boost --- 18%/10%/10% --- *So you can see your ship and continents in shadow*
+* Conic Patches -- Relative --- *doubleclick planet/moon to change what line draws WRT*
 
 #### Main menu - Settings (audio tab) 
 * Master --- whatever you prefer, 50% etc
-* Spacecraft --- 10% --- but turn this way up to 100% for your first several flights so you can appreciate the roar of a rocket taking off
-* Ambience --- 5% --- there's a low bassy hum in the VAB that drives me crazy if it's any louder
+* Spacecraft --- 10% --- *Use 100% until the roar of a rocket is no longer awesome*
+* Ambience --- 5% --- *Low-frequency hum in VAB drives me crazy*
 * UI --- 100%
-* Music --- 0% --- But leave this at like 20% until you've at least gotten to experience the transition to the orbital music a dozen times or so. Eventually, though, the VAB music will drive you insane.
-* Voices --- 100% --- I don't think chatterer volume is controlled by this
+* Music --- 0% --- *Use 20% until orbital music transition is no longer magical*
+* Voices --- 100% --- *Only used by Gene Kerman in Mission Control?*
 
 #### Main Menu - Input
 See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png
 * Toggle navball --- Disable --- *You'll want to type decimals into the new maneuver UI!*
-* Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use by Enhanced EVA mod.
-* Camera 'view up' etc --- waste of arrowkeys. Use the mouse instead.
+* Camera mode/next --- Use Num/ and Num* instead of C and V --- *Frees c key for use by Enhanced EVA mod.*
+* Camera 'view up' etc --- *Use the mouse. We need the arrowkeys...*
 * Wheels steer/drive --- *Arrowkeys, so you can wheel (🠄🠆🠅🠇), gyro (WASD), & thruster (HJKL) simultaneously.*
-* Translation --- I prefer the numpad, since I don't do HJKL directions.
+* Translation --- *I prefer the numpad, since I don't do HJKL directions.*
 * Translation key mode behavior --- *Keys shouldn't change behavior. Keep usage identical in all three modes.*
 
 #### If you need to free up keys for use by more important things
-* SAS hold (f) is almost worthless.
+* SAS hold (f) --- *useless*
 * Full throttle (z) --- *You will accidentally hit this instead of cutting throttle during a precision burn, ruining it. Unbind it.*
-* Toggle mouselook is also useless in practice.
+* Toggle mouselook --- *useless*
 
 #### Difficulty (for a newcomer)
 * Basic difficulty settings 
