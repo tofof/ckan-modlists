@@ -86,7 +86,7 @@ See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/Keyboar
 
 #### If you need to free up keys for use by more important things
 * SAS hold (f) is almost worthless.
-* Full throttle (z) --- You will accidentally hit this instead of cutting throttle during a precision burn, ruining it. Unbind it.
+* Full throttle (z) --- *You will accidentally hit this instead of cutting throttle during a precision burn, ruining it. Unbind it.*
 * Toggle mouselook is also useless in practice.
 
 #### Difficulty (for a newcomer)
