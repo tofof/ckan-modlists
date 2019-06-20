@@ -8,7 +8,7 @@ CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP 
 4. File menu -> install from .ckan -> pick a file
 5. Hit continue (do not use toggle checkbox to adjust anything)
 6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
-7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports. See discussion below.
+7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports.<sup>[[1]](#kopernicus)</sup>
 
 ## Suggested pack usage
 Install 00 and 01 at a minimum.
@@ -49,7 +49,9 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
 ## Kopernicus
-Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). Otherwise, however, the warnings not to load your save can be safely ignored.
+Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). 
+
+Otherwise, however, the warnings not to load your save can be safely ignored.
 
 ## Suggested configuration
 **IMPORTANT** *If toolbar button spam is annoying, see the Janitor's Closet tip at the very end.* **IMPORTANT**
