@@ -52,8 +52,8 @@ Useful once you're thinking *could x part of the game just let me have finer con
 *If toolbar button spam is annoying, see the Janitor's Closet tip.*<sup>[[2]](#2-hiding-mod-buttons-with-janitors-closet)</sup>
 
 #### Main menu - Settings (general tab)
-* EVAs Auto-Rotate to Camera --- turn this off, instead toggle this behavior using the keybind set in Enhanced EVA Movement mod
-* Extended Burn Time Indicator --- On --- Helpful information is helpful
+* EVAs Auto-Rotate to Camera --- *Turn off. Enhanced EVA mod lets you do this with spacebar.*
+* Extended Burn Time Indicator --- On --- *Helpful information is helpful.*
 
 #### Main menu - Settings (graphics tab)
 * Terrain Scatters --- On --- adds physicsless trees and rocks, but costs fps
