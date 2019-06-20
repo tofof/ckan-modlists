@@ -141,8 +141,3 @@ Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items bac
  * **Tracking Station** --- ScanSat, Goto, Waypoint Manager, KER, Alarm Clock, Antenna Helper, Slingshotter
  * **Flight** --- *Button visibility is shared between flight and flight's map view* --- Docking Alignment Indicator, AmpYear, Stage Recovery, Slingshotter, Alternate Resource Display, Alarm Clock, KER, Waypoint Manager, Goto, ScanSat, **ScienceAlert**, Antenna Helper
  * **Space Center Overview** --- Alarm Clock, Goto
-
-https://github.com/tofof/ckan-modlists#suggested-configuration
-
-
-
