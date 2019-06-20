@@ -74,8 +74,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Music --- 0% --- *Use 20% until orbital music transition is no longer magical*
 * Voices --- 100% --- *Only used by Gene Kerman in Mission Control?*
 
-#### Main Menu - Input
-See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png
+#### Main Menu - Input [(complete default controls diagram)](https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png target="_blank")
 * Toggle navball --- Disable --- *You'll want to type decimals into the new maneuver UI!*
 * Camera mode/next --- Use Num/ and Num* instead of C and V --- *Frees c key for use by Enhanced EVA mod.*
 * Camera 'view up' etc --- *Use the mouse. We need the arrowkeys...*
