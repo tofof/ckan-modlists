@@ -76,13 +76,12 @@ Useful once you're thinking *could x part of the game just let me have finer con
 
 #### Main Menu - Input
 See also: https://github.com/TriggerAu/KSPKeyboardMap/blob/gh-pages/PNGs/KeyboardLayout-Flight_Hires.png
-* Toggle navball --- Disable or use NumLock instead of Num. --- Otherwise, typing decimal numbers into the (new-ish) stock precision maneuver editing UI will repeatedly do this at the same time.
-* Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use in the Enhanced EVA Movement mod
-* Camera 'view up' etc --- waste of arrowkeys, use the mouse, instead, use the arrow keys on wheel control
-* Wheels 'steer L/R' and 'drive F/B' --- use the arrowkeys here instead of the default (WASD?) so you can independently control the wheels from the attempted rotation of your vehicle, assuming it has parts for both.
-
-* Translation --- I prefer to put these over on the numpad, but if you're already comfortable with HJKL as directions, there's no real need.
-* Translation key mode behavior --- I don't like the WASD controls doing translation in docking mode. WASDQE is set to control attitude of my ship at all times (3 green lights), while Num824693 does translation at all times.
+* Toggle navball --- Disable or use NumLock instead of Num. --- *You'll want to type decimals into the new maneuver window!*
+* Camera mode/next --- Use Num/ and Num* instead of C and V --- Frees c key for use by Enhanced EVA mod.
+* Camera 'view up' etc --- waste of arrowkeys. Use the mouse instead.
+* Wheels 'steer L/R' and 'drive F/B' --- *Use arrowkeys here. That way, you can control both the wheels and the gyros on your rover.*
+* Translation --- I prefer the numpad, since I don't do HJKL directions.
+* Translation key mode behavior --- *Keys shouldn't change behavior. Keep usage identical in all three modes.*
 
 #### If you need to free up keys for use by more important things
 * SAS hold (f) is almost worthless.
