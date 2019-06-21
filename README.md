@@ -9,7 +9,7 @@ CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP 
 5. Hit continue (do not use toggle checkbox to adjust anything)
 6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
 7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports.<sup>[[1]](#1-kopernicus)</sup>
-8. (Optional) In `Kerbal Space Program\GameData\ContractPacks\AnomalySurveyor\SCANsat.cfg` replace the first line with `@CONTRACT_TYPE[AS_*]:HAS[#tag[SCANsat]]:NEEDS[SCANsat]` to get rid of the MM error and get the +30%/+10% reward compensation for the difficulty boost in the AS contracts when ScanSat is installed.
+8. (Optional) Fix a line of incorrect syntax in one of the mission pack files that slightly boosts some rewards.<sup>[[2]](#2-anomalysurveyor)</sup>
 
 ## Suggested pack usage
 Install 00 and 01 at a minimum.
@@ -50,7 +50,7 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * **TweakScale** --- lets you freely resize many parts. Their cost, mass, and capacity get scaled 'fairly' but many people still consider this mod a little cheaty.
 
 ## Suggested configuration
-*Toolbar button spam is annoying. Don't miss the Janitor's Closet tip.*<sup>[[2]](#2-hiding-mod-buttons-with-janitors-closet)</sup>
+*Toolbar button spam is annoying. Don't miss the Janitor's Closet tip.*<sup>[[3]](#2-hiding-mod-buttons-with-janitors-closet)</sup>
 
 #### Main menu - Settings (general tab)
 * EVAs Auto-Rotate to Camera --- *Turn off. Enhanced EVA mod lets you do this with spacebar.*
@@ -84,7 +84,6 @@ Useful once you're thinking *could x part of the game just let me have finer con
 * Translation --- *I prefer the numpad, since I don't do HJKL directions.*
 * Translation key mode behavior --- *Keys shouldn't change behavior. Keep usage identical in all three modes.*
 * **Full throttle (z)** --- *You **will** accidentally hit this instead of cutting throttle during a precision burn, ruining it. **Unbind it!***
-
 
 #### If you need to free up keys for use by more important things
 * SAS hold (f) --- *not very useful*
@@ -134,7 +133,10 @@ Kopernicus is only used in these modlists to add rings to Jool. If you are near 
 
 Otherwise, however, the warnings not to load your save can be safely ignored.
 
-#### [[2]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
+#### [[2]⤣](#installation) AnomalySurveyor
+Edit `Kerbal Space Program\GameData\ContractPacks\AnomalySurveyor\SCANsat.cfg` and replace the first line with `@CONTRACT_TYPE[AS_*]:HAS[#tag[SCANsat]]:NEEDS[SCANsat]` to eliminate the MM error and get the boosted rewards (compensating for the difficulty boost in the AnomalySurveyor contracts when ScanSat is installed).
+
+#### [[3]⤣](#suggested-configuration) Hiding mod buttons with Janitor's Closet
 Alt-rightclick on most toolbar icons and choose 'hide everywhere'. Put items back into certain scenes (builder, map/trackingstation, in-flight) on an individual basis. Some may be unclickable, like KER. Unfortunately, sometimes it seems that janitor's closet dies until the game is restarted.
 
 **Useful mods to leave showing in specific scenes:**
