@@ -8,7 +8,7 @@ CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP 
 4. File menu -> install from .ckan -> pick a file
 5. Hit continue (do not use toggle checkbox to adjust anything)
 6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
-7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports.<sup>[[1]](#1-kopernicus)</sup>
+7. (Optional) In Steam, lock KSP to a version Kopernicus supports. Required for full eyecandy.<sup>[[1]](#1-kopernicus)</sup>
 8. (Optional) Fix a line of incorrect syntax in one of the mission pack files that slightly boosts some rewards.<sup>[[2]](#2-anomalysurveyor)</sup>
 
 ## Suggested pack usage
@@ -129,9 +129,9 @@ Upsize the ui and associated text without making icons annoyingly large:
 ## Notes
 
 #### [[1]⤣](#installation) Kopernicus
-Kopernicus is only used in these modlists to add rings to Jool. If you are near Jool, and want to see the rings, make sure Kopernicus isn't complaining at startup (it refuses to load at all on version mismatch). 
+Kopernicus is only used in these modlists to add improved textures to planets and to add rings to Jool. If Kopernicus is complaining at all during startup (and you have Nyancats), Kopernicus will refuse to load. In this case you will not have the replacement textures of any planets, nor Jool's rings.
 
-Otherwise, however, the warnings not to load your save can be safely ignored.
+However, the warnings not to load your save can be safely ignored since these modlists don't make any physics alterations using Kopernicus (no new planets, no changed masses or rotation speeds, etc).
 
 #### [[2]⤣](#installation) AnomalySurveyor
 Edit `Kerbal Space Program\GameData\ContractPacks\AnomalySurveyor\SCANsat.cfg` and replace the first line with `@CONTRACT_TYPE[AS_*]:HAS[#tag[SCANsat]]:NEEDS[SCANsat]` to eliminate the MM error and get the boosted rewards (compensating for the difficulty boost in the AnomalySurveyor contracts when ScanSat is installed).
