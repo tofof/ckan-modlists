@@ -120,7 +120,7 @@ Upsize the ui and associated text without making icons annoyingly large:
 * **Toolbar App Icon Scale** --- 93%
 
 #### In-Game Mods Settings (clicking on the mod button in toolbar)
-* **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.072` for better city lights at night.
+* **E.V.E.** --- Click the arrows over until you get to the City Lights Manager tab, then set `_CityOverlayDetailSca...` to `0.1` for better city lights at night.
 * **Distant Object Enhancement** --- Enable flares and names, Max out the flare saturation (100%), brightness (150%), and size (100%), show debris flares (15% bright), render distant vessels at max slider distance, do not dim the skybox. Alternatively, edit the .cfg file in the `GameData` directory, and set the maximum sky brightness to 225% for a more vivid night sky on Kerbin (and much much more vivid in the map view).
 * **Chatterer** --- Chatter frequency 90-180s, then in beeps tab SSTV frequency (no sstv),  sstv on science transmitted (on), sstv vol (6%) then in AAE tab bg1 (20%), bg2 (30%), only in IVA (on), breath volume (50%), airlock (100%), wind (10%), then in settings tab instachatter on singlequote, insta-sstv on semicolon.
 * **ScanSat** --- turn Toolbar Menu (off) to get rid of the annoying popup behavior, and definitely have Show Ground Tracks (on), and consider setting its child setting Active Vessel Only (off). Note that you can disable all ScanSat scanning activity from all vessels with a single errant click on the Background Scanning tab, so be careful in that one.
