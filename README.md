@@ -8,8 +8,9 @@ CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP 
 4. File menu -> install from .ckan -> pick a file
 5. Hit continue (do not use toggle checkbox to adjust anything)
 6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
-7. (Optional) In Steam, lock KSP to a version Kopernicus supports. Required for full eyecandy.<sup>[[1]](#1-kopernicus)</sup>
-8. (Optional) Fix a line of incorrect syntax in one of the mission pack files that slightly boosts some rewards.<sup>[[2]](#2-anomalysurveyor)</sup>
+7. Patch out using Kopernicus solar panels: in `Kerbal Space Program\GameData\Kopernicus\Config\SolarPanels.cfg` comment out line 18 so that it reads `//        @name = KopernicusSolarPanel`
+8. (Optional) In Steam, lock KSP to a version Kopernicus supports. Required for full eyecandy.<sup>[[1]](#1-kopernicus)</sup>
+9. (Optional) Fix a line of incorrect syntax in one of the mission pack files that slightly boosts some rewards.<sup>[[2]](#2-anomalysurveyor)</sup>
 
 ## Suggested pack usage
 Install 00 and 01 at a minimum.
