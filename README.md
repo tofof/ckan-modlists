@@ -9,6 +9,7 @@ CKAN modlist files for Kerbal Space Program. Inspired by GiantWaffle's 2019 KSP 
 5. Hit continue (do not use toggle checkbox to adjust anything)
 6. Launch KSP from shortcut, from steam, or from CKAN once everything's installed.
 7. (Optional) In Steam, lock KSP version to the most recent version Kopernicus supports.<sup>[[1]](#1-kopernicus)</sup>
+8. (Optional) In `Kerbal Space Program\GameData\ContractPacks\AnomalySurveyor\SCANsat.cfg` replace the first line with `@CONTRACT_TYPE[AS_*]:HAS[#tag[SCANsat]]:NEEDS[SCANsat]` to get rid of the MM error and get the +30%/+10% reward compensation for the difficulty boost in the AS contracts when ScanSat is installed.
 
 ## Suggested pack usage
 Install 00 and 01 at a minimum.
