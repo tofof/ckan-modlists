@@ -81,6 +81,12 @@
 		},
 		{
 			"name": "BetterBurnTime"
+		},
+		{
+			"name": "CustomBarnKit"
+		},
+		{
+			"name": "Strategia"
 		}
 	]
 }
