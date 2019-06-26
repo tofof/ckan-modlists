@@ -3,96 +3,12 @@
 	"abstract": "A base set of mods that provide only visual enhancement and essential quality of life features",
 	"name": "00stockvanilla-visual-qol",
 	"license": "unknown",
-	"version": "2019.06.19.06.32.24",
 	"identifier": "00stockvanilla-visual-qol",
+	"version": "2019.06.26.04.10.46",
 	"spec_version": "v1.6",
 	"recommends": [
 		{
-			"name": "PlanetShine-Config-Default"
-		},
-		{
-			"name": "ReStock"
-		},
-		{
-			"name": "PlanetShine"
-		},
-		{
-			"name": "DockingPortAlignmentIndicator"
-		},
-		{
-			"name": "ModularFlightIntegrator"
-		},
-		{
-			"name": "Kopernicus"
-		},
-		{
-			"name": "EnvironmentalVisualEnhancements"
-		},
-		{
-			"name": "StockVisualEnhancements"
-		},
-		{
-			"name": "SVE-Terrain"
-		},
-		{
-			"name": "SVE-HighResolution"
-		},
-		{
-			"name": "unBlur"
-		},
-		{
-			"name": "ToolbarController"
-		},
-		{
-			"name": "ClickThroughBlocker"
-		},
-		{
-			"name": "ScienceAlert"
-		},
-		{
-			"name": "ReentryParticleEffect"
-		},
-		{
-			"name": "RCSBuildAidCont"
-		},
-		{
-			"name": "JanitorsCloset"
-		},
-		{
-			"name": "EngineLightRelit"
-		},
-		{
-			"name": "SmokeScreen"
-		},
-		{
-			"name": "RealPlume-StockConfigs"
-		},
-		{
-			"name": "RealPlume"
-		},
-		{
-			"name": "KerbalAlarmClock"
-		},
-		{
-			"name": "DistantObject-default"
-		},
-		{
-			"name": "DistantObject"
-		},
-		{
-			"name": "Scatterer"
-		},
-		{
-			"name": "Scatterer-sunflare"
-		},
-		{
-			"name": "SVE-Scatterer-Config"
-		},
-		{
-			"name": "ContractConfigurator"
-		},
-		{
-			"name": "ModuleManager"
+			"name": "BetterLoadSaveGame"
 		},
 		{
 			"name": "Chatterer"
@@ -101,34 +17,127 @@
 			"name": "ChattererExtended"
 		},
 		{
-			"name": "DatedQuickSaves"
+			"name": "ClickThroughBlocker"
 		},
 		{
-			"name": "BetterLoadSaveGame"
-		},
-		{
-			"name": "MagiCore"
-		},
-		{
-			"name": "ScienceSituationInfo"
-		},
-		{
-			"name": "KeepItStraight"
-		},
-		{
-			"name": "CraftManager"
-		},
-		{
-			"name": "KXAPI"
+			"name": "CommNetAntennasInfo"
 		},
 		{
 			"name": "CommNetVisualisation"
 		},
 		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "CraftManager"
+		},
+		{
+			"name": "DatedQuickSaves"
+		},
+		{
+			"name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "DockingPortAlignmentIndicator"
+		},
+		{
+			"name": "DynamicBatteryStorage"
+		},
+		{
+			"name": "EngineLightRelit"
+		},
+		{
+			"name": "EnvironmentalVisualEnhancements"
+		},
+		{
+			"name": "JanitorsCloset"
+		},
+		{
+			"name": "KeepItStraight"
+		},
+		{
+			"name": "KerbalAlarmClock"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "KXAPI"
+		},
+		{
 			"name": "LaunchNumbering"
 		},
 		{
-			"name": "CommNetAntennasInfo"
+			"name": "MagiCore"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "PlanetShine-Config-Default"
+		},
+		{
+			"name": "RCSBuildAidCont"
+		},
+		{
+			"name": "RealPlume"
+		},
+		{
+			"name": "RealPlume-StockConfigs"
+		},
+		{
+			"name": "ReentryParticleEffect"
+		},
+		{
+			"name": "ReStock"
+		},
+		{
+			"name": "Scatterer"
+		},
+		{
+			"name": "Scatterer-config"
+		},
+		{
+			"name": "Scatterer-sunflare"
+		},
+		{
+			"name": "ScienceAlert"
+		},
+		{
+			"name": "ScienceSituationInfo"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "StockVisualEnhancements"
+		},
+		{
+			"name": "SVE-HighResolution"
+		},
+		{
+			"name": "SVE-Terrain"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "TrackingStationEvolved"
+		},
+		{
+			"name": "unBlur"
+		},
+		{
+			"name": "WorldStabilizer"
 		}
 	]
 }
