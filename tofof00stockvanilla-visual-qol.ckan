@@ -9,7 +9,7 @@
 	"recommends": [
 		{
 			"name": "BasicDeltaV"
-		}
+		},
 		{
 			"name": "BetterLoadSaveGame"
 		},
